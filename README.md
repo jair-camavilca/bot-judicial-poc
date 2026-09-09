@@ -1,11 +1,10 @@
 # Bot Judicial: PoC de Clasificación Legal con NLP
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-NLP-green)
-![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![Status](https://img.shields.io/badge/Status-PoC%20Completed-success)
-![Institution](https://img.shields.io/badge/Institution-SENATI-005691)
+[![SENATI](https://img.shields.io/badge/SENATI-00529B?style=for-the-badge)](https://www.senati.edu.pe/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-NLP-green?style=for-the-badge)](https://www.nltk.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+![Estado](https://img.shields.io/badge/Estado-PoC%20completada-2EA44F?style=for-the-badge)
 
 Prueba de Concepto (**PoC**) desarrollada en Python para la clasificación y derivación automática de consultas ciudadanas en el ámbito judicial. Mediante técnicas de **Procesamiento de Lenguaje Natural (NLP)** y algoritmos de **Machine Learning supervisado**, el sistema categoriza el nivel de urgencia (`Alta`, `Media`, `Baja`) para su posterior atención procesal o administrativa.
 
@@ -85,8 +84,7 @@ jupyter notebook pipeline_nlp.ipynb
 ---
 
 ### Contexto Académico
-* **Institución:** SENATI
-* **Carrera:** Ingeniería de Software con Inteligencia Artificial (4to ciclo)
+* Proyecto personal (4to ciclo)
 
 
 
